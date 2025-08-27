@@ -1,13 +1,19 @@
-# Retail Sales Analysis  
+# 🛒 Retail Sales Analysis  
 
-This project focuses on analyzing retail sales data with SQL and Python.  
-It uses a structured dataset of transactions stored in `Retail Sales.csv`.  
-The database schema and analytical queries are provided in `retail.sql`.  
-Queries explore sales trends, customer insights, and product categories.  
-Data cleaning steps remove nulls and prepare consistent records.  
-Key analyses include revenue by category, profit margins, and AOV.  
-Customer behavior is explored through repeat purchases and top spenders.  
-Time-based analysis highlights busiest days, shifts, and monthly trends.  
-The Jupyter Notebook (`retail.ipynb`) adds visual and statistical exploration.  
-This project is useful for learning SQL analytics and retail business insights.  
-It can serve as a hands-on guide for students, analysts, and data enthusiasts.  
+A complete project for exploring **retail transactions data** using SQL and Python.  
+
+## 📂 Project Components  
+- 📑 **Dataset**: `Retail Sales.csv` (raw transactional data)  
+- 🗄️ **SQL File**: `retail.sql` (schema + 14 analytical queries)  
+- 📓 **Notebook**: `retail.ipynb` (EDA + visual analysis)  
+
+## 📊 Key Highlights  
+- 🧹 Data cleaning (handling nulls, structured schema)  
+- 💰 Revenue, profit margin, and category-wise sales insights  
+- 👥 Customer analysis (unique, repeat, top spenders)  
+- 📆 Time-based trends (busiest days, monthly peaks, sales shifts)  
+- 📈 Visualizations for patterns in customer behavior and sales  
+
+## 🎯 Purpose  
+This project is ideal for **students, analysts, and data enthusiasts**  
+to practice SQL, data cleaning, and exploratory data analysis in retail.  
